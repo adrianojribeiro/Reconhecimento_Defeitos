@@ -3,6 +3,7 @@ using IBM.Cloud.SDK.Core.Http;
 using IBM.Watson.VisualRecognition.v3;
 using IBM.Watson.VisualRecognition.v3.Model;
 using Newtonsoft.Json;
+using Newtonsoft.Json.Linq;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -52,7 +53,17 @@ namespace Reconhecimento_Defeitos
 
               //  MessageBox.Show(JsonConvert.SerializeObject(resultado, Formatting.Indented));            
             }
+
+            //   string resu = JsonConvert.SerializeObject(resultado.Response, Formatting.Indented);
+          //var compras = JsonConvert.DeserializeObject<List<Compras>>(response);
+
+         
+         
             MessageBox.Show(resultado.Response);
+            
+
+
+
         }
     }
 }
