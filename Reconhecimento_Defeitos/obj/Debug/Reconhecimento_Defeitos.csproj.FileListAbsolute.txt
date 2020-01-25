@@ -247,7 +247,6 @@ C:\Users\adria\Source\Repos\Reconhecimento_Defeitos\Reconhecimento_Defeitos\bin\
 C:\Users\adria\Source\Repos\Reconhecimento_Defeitos\Reconhecimento_Defeitos\bin\Debug\System.Net.Http.Formatting.xml
 C:\Users\adria\Source\Repos\Reconhecimento_Defeitos\Reconhecimento_Defeitos\bin\Debug\System.Numerics.Vectors.xml
 C:\Users\adria\Source\Repos\Reconhecimento_Defeitos\Reconhecimento_Defeitos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
-C:\Users\adria\Source\Repos\Reconhecimento_Defeitos\Reconhecimento_Defeitos\obj\Debug\Reconhecimento_Defeitos.csprojAssemblyReference.cache
 C:\Users\adria\Source\Repos\Reconhecimento_Defeitos\Reconhecimento_Defeitos\obj\Debug\Reconhecimento_Defeitos.exe.config
 C:\Users\adria\Source\Repos\Reconhecimento_Defeitos\Reconhecimento_Defeitos\obj\Debug\Reconhecimento_Defeitos.Form1.resources
 C:\Users\adria\Source\Repos\Reconhecimento_Defeitos\Reconhecimento_Defeitos\obj\Debug\Reconhecimento_Defeitos.Properties.Resources.resources
@@ -256,3 +255,4 @@ C:\Users\adria\Source\Repos\Reconhecimento_Defeitos\Reconhecimento_Defeitos\obj\
 C:\Users\adria\Source\Repos\Reconhecimento_Defeitos\Reconhecimento_Defeitos\obj\Debug\Reconhecimento_Defeitos.csproj.CopyComplete
 C:\Users\adria\Source\Repos\Reconhecimento_Defeitos\Reconhecimento_Defeitos\obj\Debug\Reconhecimento_Defeitos.exe
 C:\Users\adria\Source\Repos\Reconhecimento_Defeitos\Reconhecimento_Defeitos\obj\Debug\Reconhecimento_Defeitos.pdb
+C:\Users\adria\Source\Repos\Reconhecimento_Defeitos\Reconhecimento_Defeitos\obj\Debug\Reconhecimento_Defeitos.csprojAssemblyReference.cache
