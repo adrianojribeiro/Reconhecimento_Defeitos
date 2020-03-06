@@ -33,7 +33,6 @@ namespace Reconhecimento_Defeitos
             VisualRecognitionService visualRecognition = new VisualRecognitionService("2018-03-19", authenticator);
             visualRecognition.SetServiceUrl("https://api.us-south.visual-recognition.watson.cloud.ibm.com/instances/1eae2afd-1a53-4887-988a-df2841a16885");
             DetailedResponse<ClassifiedImages> resultado;
-
             arquivo = CarregaFoto();
 
             try
@@ -54,12 +53,13 @@ namespace Reconhecimento_Defeitos
                     }
                 }
 
+       
 
                 var json = JsonConvert.SerializeObject(resultado.Result.Images); // cria uma especie de Json     
             
                 richTextBox.Text = Resultado_Final(json);
                 textBoxcaminhoarquivo.Text = arquivo;
-
+                MessageBox.Show(Resultado_Final(json));
 
             }
 
